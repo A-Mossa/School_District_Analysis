@@ -33,20 +33,10 @@ The analysis concluded the following outcomes:
 ![schooltype](https://github.com/A-Mossa/School_District_Analysis/blob/main/SDAImages/Schooltype.png)
   - The two types of schools in the dataset were District and Chartered. Across the board, Charter type schools enjoyed higher passing rates in all areas, that includes reading, mathematics, and overall passing rate.
 
-
-- Which county had the largest number of votes?
-  - Denver was the county with the largest number of votes (306,055)
-- The Candidate results were:
-  - Charles Casper Stockham: recieved 23.0% of the total votes ,(85213)
-  - Diana DeGette: recieved 73.8% of the total votes ,(272892)
-  - Raymon Anthony Doane: recieved 3.1% of the total votes ,(11606)
-- The winner of the election was:
-  - Diana DeGette, who recieved 73.8% of the total votes (272892)
-
-## Election-Audit Summary
-The code utilized this audit is sufficient to carry out the same analysis of results to almost any similar situation with minor tweaks.
+## School District Analysis Summary
+The code utilized this analysis is sufficient to carry out the same analysis of results to almost any similar situation with minor tweaks.
 given the next project posses a similar database, the code can be slightly refactored to accomodate difference and changes if the desired outcome is of the same nature as this audit.
 
-![Code_screenshot](https://github.com/A-Mossa/Election-Analysis/blob/main/PyPollCode.png)
+Using pandas revealed that the average of student grades were indirectly proportional to school size and spending, most notably the Charter school district is a better environment for students as they scored higher in math and reading.
 
-For example, if in the future should the stake holders wish to include additional attributes, then more variables would be created and code would be slightly modified to govern the interaction between said variables.
+in the future should the stake holders wish to include additional attributes, then the code maybe refactored to create code that would be slightly modified but would yield the same results
