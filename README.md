@@ -24,12 +24,15 @@ The analysis concluded the following outcomes:
   - Hernandez High School	
   - Johnson High School	
 - Passing rate per Capita:
+![PassPerCapita](https://github.com/A-Mossa/School_District_Analysis/blob/main/SDAImages/SchoolSpend.png)
   - When investigating the spending relation to overall passing, we found that strange enough the schools with the least spending budget per student, had a relatively higher overall pass rate
 -School Size:
+![schoolsize](https://github.com/A-Mossa/School_District_Analysis/blob/main/SDAImages/SchoolSize.png)
   - It was concluded from thorough analysis that the smaller the size of a school, the higher the overall passing rate. and the bigger the size of the school, the more the probability of failure increases.
 -School Type :
+![schooltype](https://github.com/A-Mossa/School_District_Analysis/blob/main/SDAImages/Schooltype.png)
   - The two types of schools in the dataset were District and Chartered. Across the board, Charter type schools enjoyed higher passing rates in all areas, that includes reading, mathematics, and overall passing rate.
-![Election_resilt_summary](https://github.com/A-Mossa/Election-Analysis/blob/main/County_votes_results.png)
+
 
 - Which county had the largest number of votes?
   - Denver was the county with the largest number of votes (306,055)
