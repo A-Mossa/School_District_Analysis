@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview of School District Analysis
-My boss maria tasked me with the analysis of multiple schools in a state in relation to budget, school size, various grades
+My boss Maria tasked me with the analysis of multiple schools in a state in relation to budget, school size, various grades
 and various scores including math and reading.
 Analysis was done with following criteria in mind:
 1. Determine the budget relation to student scores in differnet grades.
